@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DEBASMITA2702/QCPP/tree/master/0001-two-sum) |
+| [1094-car-pooling](https://github.com/DEBASMITA2702/QCPP/tree/master/1094-car-pooling) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/DEBASMITA2702/QCPP/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Hash Table
 |  |
@@ -42,5 +43,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1094-car-pooling](https://github.com/DEBASMITA2702/QCPP/tree/master/1094-car-pooling) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/DEBASMITA2702/QCPP/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+## Sorting
+|  |
+| ------- |
+| [1094-car-pooling](https://github.com/DEBASMITA2702/QCPP/tree/master/1094-car-pooling) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1094-car-pooling](https://github.com/DEBASMITA2702/QCPP/tree/master/1094-car-pooling) |
+## Prefix Sum
+|  |
+| ------- |
+| [1094-car-pooling](https://github.com/DEBASMITA2702/QCPP/tree/master/1094-car-pooling) |
 <!---LeetCode Topics End-->
