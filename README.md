@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/DEBASMITA2702/QCPP/tree/master/0001-two-sum) |
 | [1094-car-pooling](https://github.com/DEBASMITA2702/QCPP/tree/master/1094-car-pooling) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/DEBASMITA2702/QCPP/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/DEBASMITA2702/QCPP/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Hash Table
 |  |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/DEBASMITA2702/QCPP/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/DEBASMITA2702/QCPP/tree/master/0070-climbing-stairs) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/DEBASMITA2702/QCPP/tree/master/1561-maximum-number-of-coins-you-can-get) |
 ## Linked List
 |  |
 | ------- |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1094-car-pooling](https://github.com/DEBASMITA2702/QCPP/tree/master/1094-car-pooling) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/DEBASMITA2702/QCPP/tree/master/1561-maximum-number-of-coins-you-can-get) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -57,4 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1094-car-pooling](https://github.com/DEBASMITA2702/QCPP/tree/master/1094-car-pooling) |
+## Greedy
+|  |
+| ------- |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/DEBASMITA2702/QCPP/tree/master/1561-maximum-number-of-coins-you-can-get) |
+## Game Theory
+|  |
+| ------- |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/DEBASMITA2702/QCPP/tree/master/1561-maximum-number-of-coins-you-can-get) |
 <!---LeetCode Topics End-->
