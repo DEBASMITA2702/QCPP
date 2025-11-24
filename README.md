@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/DEBASMITA2702/QCPP/tree/master/0001-two-sum) |
 | [1094-car-pooling](https://github.com/DEBASMITA2702/QCPP/tree/master/1094-car-pooling) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/DEBASMITA2702/QCPP/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/DEBASMITA2702/QCPP/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/DEBASMITA2702/QCPP/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Hash Table
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/DEBASMITA2702/QCPP/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/DEBASMITA2702/QCPP/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Queue
 |  |
@@ -68,4 +70,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/DEBASMITA2702/QCPP/tree/master/1561-maximum-number-of-coins-you-can-get) |
+## Two Pointers
+|  |
+| ------- |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/DEBASMITA2702/QCPP/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
+## Binary Search
+|  |
+| ------- |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/DEBASMITA2702/QCPP/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/DEBASMITA2702/QCPP/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 <!---LeetCode Topics End-->
