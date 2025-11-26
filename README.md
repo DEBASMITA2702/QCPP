@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/DEBASMITA2702/QCPP/tree/master/0070-climbing-stairs) |
+| [0392-is-subsequence](https://github.com/DEBASMITA2702/QCPP/tree/master/0392-is-subsequence) |
 ## Memoization
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/DEBASMITA2702/QCPP/tree/master/0392-is-subsequence) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/DEBASMITA2702/QCPP/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Binary Search
 |  |
@@ -82,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/DEBASMITA2702/QCPP/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
+## String
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/DEBASMITA2702/QCPP/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
