@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DEBASMITA2702/QCPP/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/DEBASMITA2702/QCPP/tree/master/0037-sudoku-solver) |
 | [1094-car-pooling](https://github.com/DEBASMITA2702/QCPP/tree/master/1094-car-pooling) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/DEBASMITA2702/QCPP/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/DEBASMITA2702/QCPP/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DEBASMITA2702/QCPP/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/DEBASMITA2702/QCPP/tree/master/0037-sudoku-solver) |
 ## Math
 |  |
 | ------- |
@@ -88,4 +90,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/DEBASMITA2702/QCPP/tree/master/0392-is-subsequence) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/DEBASMITA2702/QCPP/tree/master/0037-sudoku-solver) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/DEBASMITA2702/QCPP/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
